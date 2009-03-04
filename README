@@ -1,0 +1,8 @@
+QtTestUtil
+----------
+
+Convenience classes for unit testing using QtTest.
+See Example/ for examples on using these classes.
+
+Remko Tronçon
+http://el-tramo.be
